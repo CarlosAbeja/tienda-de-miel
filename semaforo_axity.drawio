@@ -25,11 +25,35 @@
         <mxCell id="Sc091ML0x0Ows7FDVVMx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-6" target="Sc091ML0x0Ows7FDVVMx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-6" target="Sc091ML0x0Ows7FDVVMx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sc091ML0x0Ows7FDVVMx-6" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;&quot;&gt;Administrador y&lt;br/&gt;Analista 2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sc091ML0x0Ows7FDVVMx-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: white; font-family: Arial, sans-serif; font-size: 11pt;&quot;&gt;Son los encargados de realizar la carga de&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;nuevos procesos, ver procesos en semáforo, registrar, editar, eliminar y&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;cambiar de estado la información contenida en la base de datos del Semáforo.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Puede ver las fallas registradas, cambiar el estado de estas y ver los reportes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;generados por los procesos entregados de los analistas.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="510" width="220" height="240" as="geometry" />
+          <mxGeometry x="490" y="450" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-10" target="Sc091ML0x0Ows7FDVVMx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-10" target="Sc091ML0x0Ows7FDVVMx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-10" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;&quot;&gt;A1_7x24_1, A1_7x24_2,&lt;br/&gt;A1_7x24_3, A1_Alicia_C, A1_Jefferson&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="350" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-12" target="Sc091ML0x0Ows7FDVVMx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-12" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;&quot;&gt;A1_7x24_1, A1_7x24_2,&lt;br/&gt;A1_7x24_3, A1_Alicia_C, A1_Jefferson&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="350" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: white; font-family: Arial, sans-serif; font-size: 11pt;&quot;&gt;Son las personas que van a mirar los procesos,&lt;br/&gt;ver el minutograma para registrar la entrega de los procesos entregables, ver&lt;br/&gt;los procesos en el semáforo, ver los procesos entregables, cambiar de estado&lt;br/&gt;los cargues, ver y cambiar de estado las fallas, ver los usuarios registrados y&lt;br/&gt;ver el reporte de los procesos entregados&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="460" width="210" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-16" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;&quot;&gt;A1_7x24_1, A1_7x24_2,&lt;br/&gt;A1_7x24_3, A1_Alicia_C, A1_Jefferson&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="540" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
