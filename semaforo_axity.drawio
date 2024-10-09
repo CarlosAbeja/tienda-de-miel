@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="sumTNfF0hGq8qInE4uZT">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-1" target="Sc091ML0x0Ows7FDVVMx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-1" value="Semaforo GGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-2" target="Sc091ML0x0Ows7FDVVMx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-2" value="Autenticacion de Usuarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-4" target="Sc091ML0x0Ows7FDVVMx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-4" value="Roles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sc091ML0x0Ows7FDVVMx-6" target="Sc091ML0x0Ows7FDVVMx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-6" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;&quot;&gt;Administrador y&lt;br/&gt;Analista 2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sc091ML0x0Ows7FDVVMx-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: white; font-family: Arial, sans-serif; font-size: 11pt;&quot;&gt;Son los encargados de realizar la carga de&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Arial, sans-serif; background: white;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;nuevos procesos, ver procesos en semáforo, registrar, editar, eliminar y&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;cambiar de estado la información contenida en la base de datos del Semáforo.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Puede ver las fallas registradas, cambiar el estado de estas y ver los reportes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;generados por los procesos entregados de los analistas.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="510" width="220" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
